@@ -1,0 +1,30 @@
+.heading{
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    border-bottom: 5px 5px 5px red;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.footer{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    background-color: gray;
+    line-height: 4;
+    text-align: center;
+    width: 100%;
+}
+
+canvas{
+    border: 5px dotted rgb(133, 215, 33);
+    border-radius: 25px;
+    box-shadow: 5px 5px 5px green;
+}
